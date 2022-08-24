@@ -1,0 +1,15 @@
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework005\Arrays-and-functions-in-programming-Homework005\task33\obj\Debug\net6.0\task33.csproj.AssemblyReference.cache
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework005\Arrays-and-functions-in-programming-Homework005\task33\obj\Debug\net6.0\task33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework005\Arrays-and-functions-in-programming-Homework005\task33\obj\Debug\net6.0\task33.AssemblyInfoInputs.cache
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework005\Arrays-and-functions-in-programming-Homework005\task33\obj\Debug\net6.0\task33.AssemblyInfo.cs
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework005\Arrays-and-functions-in-programming-Homework005\task33\obj\Debug\net6.0\task33.csproj.CoreCompileInputs.cache
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework005\Arrays-and-functions-in-programming-Homework005\task33\bin\Debug\net6.0\task33.exe
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework005\Arrays-and-functions-in-programming-Homework005\task33\bin\Debug\net6.0\task33.deps.json
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework005\Arrays-and-functions-in-programming-Homework005\task33\bin\Debug\net6.0\task33.runtimeconfig.json
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework005\Arrays-and-functions-in-programming-Homework005\task33\bin\Debug\net6.0\task33.dll
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework005\Arrays-and-functions-in-programming-Homework005\task33\bin\Debug\net6.0\task33.pdb
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework005\Arrays-and-functions-in-programming-Homework005\task33\obj\Debug\net6.0\task33.dll
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework005\Arrays-and-functions-in-programming-Homework005\task33\obj\Debug\net6.0\refint\task33.dll
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework005\Arrays-and-functions-in-programming-Homework005\task33\obj\Debug\net6.0\task33.pdb
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework005\Arrays-and-functions-in-programming-Homework005\task33\obj\Debug\net6.0\task33.genruntimeconfig.cache
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework005\Arrays-and-functions-in-programming-Homework005\task33\obj\Debug\net6.0\ref\task33.dll
